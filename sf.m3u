@@ -1,0 +1,120 @@
+#EXTINF:-1,SYFY UHD1
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21277
+
+
+#EXTINF:-1,SYFY HD²
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/717
+
+
+#EXTINF:-1,SYFY HD3
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111983
+
+#EXTINF:-1,SYFY UHD4
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21277
+
+
+#EXTINF:-1,SYFY HD²
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/717
+
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
+http://64.31.40.14:14031/
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
+http://64.31.40.14:14056/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
+http://51.83.238.223:16763/
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83265
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83266
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83262
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83263
+
+
+
+
+#EXTINF:-1,BR: SYFY
+http://37.49.225.197:8080/2c258a9b/c73f1cfbce/14485
+
+#EXTINF:-1,AXN UHD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21223
+
+#EXTINF:-1,AXN HD²
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/675
+
+
+#EXTINF:-1,BR: Gloobinho
+http://37.49.225.197:8080/2c258a9b/c73f1cfbce/148406
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais | INFANTIL",PAW Patrol Patrulha Canina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN SD
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD 
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
+http://199.127.60.83:16043/
+
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD [Alter]
+http://64.31.40.14:14043/
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83258
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83274
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83572
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83223
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83227
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83224
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83233
+
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83212
+
+
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83235
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD [Alter]
+http://64.31.40.14:14048/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83666
+
+#EXTINF:-1,BR: Telecine Pipoca
+http://37.49.225.197:8080/2c258a9b/c73f1cfbce/8830
